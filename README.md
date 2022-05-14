@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+A coder and a gamer in Zhejiang University
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=PepcyCh&show_icons=true&count_private=true&theme=flag-india)](https://github.com/PepcyCh)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PepcyCh&layout=compact&hide=html,c&theme=flag-india)](https://github.com/PepyCh)
