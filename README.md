@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 A coder and a gamer in Zhejiang University
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=SJoJoK&show_icons=true&count_private=true&theme=flag-india)](https://github.com/PepcyCh)
+[![Stats](https://github-readme-stats.vercel.app/api?username=SJoJoK&show_icons=true&count_private=true&theme=flag-india)](https://github.com/SJoJoK)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJoJoK&layout=compact&hide=html,c&theme=flag-india)](https://github.com/PepyCh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJoJoK&layout=compact&hide=html,c&theme=flag-india)](https://github.com/SJoJoK)
