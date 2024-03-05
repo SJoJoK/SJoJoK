@@ -32,7 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="Maya" height="40" style="vertical-align:top; margin:4px"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="40" style="vertical-align:top; margin:4px"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="40" style="vertical-align:top; margin:4px"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" height="40" style="vertical-align:top; margin:4px"/>
