@@ -7,7 +7,7 @@
 
   我目前是**浙江大学**的硕士研究生，主修**计算机科学与技术学院**的**软件工程**专业
 
-- My research interests include **🎨Computer Graphics** and **🤖Artificial Intelligence**, leading to some achievements in **👀3D Vision**.
+- My research interests include **🎨Computer Graphics** and **👁️Computer Vision**, leading to some achievements in **👀3D Vision**.
 
   我的研究兴趣包括**计算机图形学**与**人工智能**， 因此在**3D视觉**领域有一些成果
 
