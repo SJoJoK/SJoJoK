@@ -15,6 +15,7 @@
 
   我是**电子游戏**的狂热粉丝，但我并不是一名游戏开发者:(
 
+<!--
 ## Languages and Tools:
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="40" style="vertical-align:top; margin:4px"/>
@@ -26,13 +27,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" height="40" style="vertical-align:top; margin:4px"/>         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" height="40" style="vertical-align:top; margin:4px"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" alt="F#" height="40" style="vertical-align:top; margin:4px"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="Maya" height="40" style="vertical-align:top; margin:4px"/>       
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="40" style="vertical-align:top; margin:4px"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" height="40" style="vertical-align:top; margin:4px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" height="40" style="vertical-align:top; margin:4px"/>
@@ -49,9 +48,9 @@
 </p>
 <p align="center"/>
 ..., 还有<a href="https://developer.nvidia.com/cuda-toolkit">CUDA</a>和<a href="https://developer.nvidia.com/rtx/ray-tracing/optix">Optix7</a>, 但我没有找到它们的图标
+-->
 
 <!-- ## Github Stats:
-
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=SJoJoK&show_icons=true&count_private=true&theme=graywhite">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SJoJoK&layout=compact&langs_count=8&size_weight=0.4&count_weight=0.6&theme=graywhite">
